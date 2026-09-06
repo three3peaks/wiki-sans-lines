@@ -1,0 +1,7 @@
+{
+  "wordnet": true,
+  "ollama": true,
+  "ollama_host": "http://127.0.0.1:11434",
+  "ollama_model": "qwen2.5:7b",
+  "default_mode": "word"
+}

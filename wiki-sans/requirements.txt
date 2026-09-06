@@ -1,0 +1,6 @@
+# Optional. If installed and reachable, WordNet improves synonym lookup.
+# The program still runs if this package or its data is missing.
+nltk>=3.8
+
+# Used by the GUI to scale the character sprites without blur.
+pillow>=10.0

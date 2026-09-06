@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# App build output and local runtime files
+wiki-sans/build/
+wiki-sans/dist/
+wiki-sans/logs/
+wiki-sans/history.json
+wiki-sans/data/sentences.json

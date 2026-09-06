@@ -1,0 +1,894 @@
+{
+  "Aaron": {
+    "textboxes": 37,
+    "plain_textboxes": 37
+  },
+  "Alphys": {
+    "textboxes": 451,
+    "plain_textboxes": 450
+  },
+  "Alphys (Undernet)": {
+    "textboxes": 26,
+    "plain_textboxes": 26
+  },
+  "Alphys (call)": {
+    "textboxes": 405,
+    "plain_textboxes": 398
+  },
+  "Alphys (note)": {
+    "textboxes": 20,
+    "plain_textboxes": 20
+  },
+  "Alphys (screen)": {
+    "textboxes": 85,
+    "plain_textboxes": 85
+  },
+  "Annoying Dog": {
+    "textboxes": 20,
+    "plain_textboxes": 20
+  },
+  "Annoying Dog (call)": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "Annoying Dog-Bomb": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Asgore": {
+    "textboxes": 174,
+    "plain_textboxes": 174
+  },
+  "Asgore (note)": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Asgore (video)": {
+    "textboxes": 14,
+    "plain_textboxes": 14
+  },
+  "Asriel": {
+    "textboxes": 234,
+    "plain_textboxes": 234
+  },
+  "Asriel (call)": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Asriel (video)": {
+    "textboxes": 35,
+    "plain_textboxes": 35
+  },
+  "Astigmatism": {
+    "textboxes": 14,
+    "plain_textboxes": 14
+  },
+  "Ball Game": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Big Mouth": {
+    "textboxes": 23,
+    "plain_textboxes": 23
+  },
+  "Big Mouth and Drunk Bun": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Bob": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Bomb": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Book": {
+    "textboxes": 58,
+    "plain_textboxes": 58
+  },
+  "Bratty": {
+    "textboxes": 79,
+    "plain_textboxes": 79
+  },
+  "Bratty (note)": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Burgerpants": {
+    "textboxes": 138,
+    "plain_textboxes": 138
+  },
+  "Business Dude 1": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Business Dude 2": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Business Manticore": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Catty": {
+    "textboxes": 84,
+    "plain_textboxes": 84
+  },
+  "Catty (note)": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Cell phone": {
+    "textboxes": 17,
+    "plain_textboxes": 17
+  },
+  "Chara": {
+    "textboxes": 106,
+    "plain_textboxes": 104
+  },
+  "Chara and Frisk": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Charles": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Chilldrake": {
+    "textboxes": 27,
+    "plain_textboxes": 27
+  },
+  "Clam Girl": {
+    "textboxes": 15,
+    "plain_textboxes": 15
+  },
+  "Clam Guy": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Dad Slime": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Dating / Friendship HUD": {
+    "textboxes": 11,
+    "plain_textboxes": 11
+  },
+  "Dating HUD": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Diamond Boy 1": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Diamond Boy 2": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Diamond Receptionist": {
+    "textboxes": 9,
+    "plain_textboxes": 9
+  },
+  "Dogamy": {
+    "textboxes": 27,
+    "plain_textboxes": 27
+  },
+  "Dogamy and Dogaressa": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "Dogaressa": {
+    "textboxes": 26,
+    "plain_textboxes": 26
+  },
+  "Doge": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Doggo": {
+    "textboxes": 46,
+    "plain_textboxes": 46
+  },
+  "Dress Lion": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Drunk Bun": {
+    "textboxes": 14,
+    "plain_textboxes": 14
+  },
+  "Dummy": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Echo Flower": {
+    "textboxes": 35,
+    "plain_textboxes": 35
+  },
+  "Echo Flower (Echo Flower Explainer)": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Echo Flower (Flowey)": {
+    "textboxes": 11,
+    "plain_textboxes": 11
+  },
+  "Echo Flower Explainer": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Elder Puzzler": {
+    "textboxes": 16,
+    "plain_textboxes": 16
+  },
+  "Elevator": {
+    "textboxes": 12,
+    "plain_textboxes": 12
+  },
+  "Faun": {
+    "textboxes": 14,
+    "plain_textboxes": 14
+  },
+  "Ferry": {
+    "textboxes": 4,
+    "plain_textboxes": 4
+  },
+  "Ferry and Frisk": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Ficus Licker": {
+    "textboxes": 32,
+    "plain_textboxes": 32
+  },
+  "Ficus Licker and Frisk": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Final Froggit": {
+    "textboxes": 11,
+    "plain_textboxes": 11
+  },
+  "Fish Receptionist": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "Flowey": {
+    "textboxes": 591,
+    "plain_textboxes": 587
+  },
+  "Fox Head": {
+    "textboxes": 9,
+    "plain_textboxes": 9
+  },
+  "Friendship HUD": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Frisk": {
+    "textboxes": 36,
+    "plain_textboxes": 36
+  },
+  "Froggit": {
+    "textboxes": 74,
+    "plain_textboxes": 74
+  },
+  "Froggit and Frisk": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Fuku Fire": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Gaster": {
+    "textboxes": 11,
+    "plain_textboxes": 11
+  },
+  "Gaster ?": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Gaster Follower 1": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "Gaster Follower 2": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Gaster Follower 3": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "Gerson": {
+    "textboxes": 111,
+    "plain_textboxes": 111
+  },
+  "Gift Bear": {
+    "textboxes": 16,
+    "plain_textboxes": 16
+  },
+  "Glad Dummy": {
+    "textboxes": 16,
+    "plain_textboxes": 16
+  },
+  "Glyde": {
+    "textboxes": 18,
+    "plain_textboxes": 18
+  },
+  "Goner Kid": {
+    "textboxes": 11,
+    "plain_textboxes": 11
+  },
+  "Grillby": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Gyftrot": {
+    "textboxes": 20,
+    "plain_textboxes": 20
+  },
+  "Hand Receptionist": {
+    "textboxes": 15,
+    "plain_textboxes": 15
+  },
+  "Hand Receptionist and Frisk": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Heats Flamesman": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Hot Dog Harpy": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Ice": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Ice Cap": {
+    "textboxes": 40,
+    "plain_textboxes": 40
+  },
+  "Ice Wolf": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Jerry": {
+    "textboxes": 13,
+    "plain_textboxes": 13
+  },
+  "Kid Slime 1": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Kid Slime 2": {
+    "textboxes": 4,
+    "plain_textboxes": 4
+  },
+  "Knight Knight": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Label": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Lady Garf": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Lemon Bread": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Lesser Dog": {
+    "textboxes": 13,
+    "plain_textboxes": 13
+  },
+  "Library Lizard": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Library Loox": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Loox": {
+    "textboxes": 14,
+    "plain_textboxes": 14
+  },
+  "Loren": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "MTT Resort room 1 resident": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "MTT Resort room 1 resident and Frisk": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "MTT Resort room 3 resident": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "MTT Resort room 3 resident and Frisk": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Mad Dummy": {
+    "textboxes": 93,
+    "plain_textboxes": 93
+  },
+  "Madjick": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Memoryhead": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Menu": {
+    "textboxes": 534,
+    "plain_textboxes": 516
+  },
+  "Mettaton": {
+    "textboxes": 534,
+    "plain_textboxes": 528
+  },
+  "Mettaton (call)": {
+    "textboxes": 33,
+    "plain_textboxes": 33
+  },
+  "Mettaton Caller 1 (call)": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Mettaton Caller 2 (call)": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Mettaton Caller 3 (call)": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Mettaton EX": {
+    "textboxes": 143,
+    "plain_textboxes": 142
+  },
+  "Mettaton NEO": {
+    "textboxes": 14,
+    "plain_textboxes": 14
+  },
+  "Mettaton and Frisk": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Migosp": {
+    "textboxes": 15,
+    "plain_textboxes": 15
+  },
+  "Migospel": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Moldbygg": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Moldessa": {
+    "textboxes": 4,
+    "plain_textboxes": 4
+  },
+  "Moldsmal": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Monster Kid": {
+    "textboxes": 163,
+    "plain_textboxes": 163
+  },
+  "Monster Kid and Frisk": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Muffet": {
+    "textboxes": 112,
+    "plain_textboxes": 112
+  },
+  "Nacarat Jester": {
+    "textboxes": 13,
+    "plain_textboxes": 13
+  },
+  "Napstablook": {
+    "textboxes": 152,
+    "plain_textboxes": 152
+  },
+  "Napstablook (call)": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Napstablook and Frisk": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Napstablook and Narrator": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Napstablook's Cousin (diary)": {
+    "textboxes": 30,
+    "plain_textboxes": 30
+  },
+  "Narrator": {
+    "textboxes": 2418,
+    "plain_textboxes": 2417
+  },
+  "Narrator (Undernet)": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "Narrator (Undernet) and Frisk": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Narrator and Asgore (note)": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Narrator and Frisk": {
+    "textboxes": 70,
+    "plain_textboxes": 70
+  },
+  "Narrator and Toriel (message)": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Nice Cream Guy": {
+    "textboxes": 51,
+    "plain_textboxes": 50
+  },
+  "Nice Cream Guy (Nice Cream wrapper)": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Nice Cream Guy and Frisk": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  },
+  "Nice Cream Guy and Narrator": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Note": {
+    "textboxes": 4,
+    "plain_textboxes": 4
+  },
+  "Omega Flowey": {
+    "textboxes": 94,
+    "plain_textboxes": 93
+  },
+  "Oni": {
+    "textboxes": 8,
+    "plain_textboxes": 8
+  },
+  "Onionsan": {
+    "textboxes": 31,
+    "plain_textboxes": 31
+  },
+  "Papyrus": {
+    "textboxes": 1150,
+    "plain_textboxes": 1142
+  },
+  "Papyrus (Undernet)": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Papyrus (call)": {
+    "textboxes": 1034,
+    "plain_textboxes": 1034
+  },
+  "Papyrus (label)": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Papyrus (note)": {
+    "textboxes": 33,
+    "plain_textboxes": 33
+  },
+  "Parsnik": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Plaque": {
+    "textboxes": 45,
+    "plain_textboxes": 45
+  },
+  "Politics Bear": {
+    "textboxes": 15,
+    "plain_textboxes": 15
+  },
+  "Punk Hamster": {
+    "textboxes": 11,
+    "plain_textboxes": 11
+  },
+  "Pyrope": {
+    "textboxes": 21,
+    "plain_textboxes": 21
+  },
+  "RG 01": {
+    "textboxes": 65,
+    "plain_textboxes": 65
+  },
+  "RG 02": {
+    "textboxes": 21,
+    "plain_textboxes": 21
+  },
+  "RG 03": {
+    "textboxes": 15,
+    "plain_textboxes": 15
+  },
+  "RG 04": {
+    "textboxes": 23,
+    "plain_textboxes": 23
+  },
+  "Rabbit Girl": {
+    "textboxes": 12,
+    "plain_textboxes": 12
+  },
+  "Rabbit Kid": {
+    "textboxes": 14,
+    "plain_textboxes": 14
+  },
+  "Ragel": {
+    "textboxes": 11,
+    "plain_textboxes": 11
+  },
+  "Reaper Bird": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Red Bird": {
+    "textboxes": 19,
+    "plain_textboxes": 19
+  },
+  "River Person": {
+    "textboxes": 56,
+    "plain_textboxes": 56
+  },
+  "River Person and Frisk": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Rock": {
+    "textboxes": 13,
+    "plain_textboxes": 13
+  },
+  "Sad Dragon": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Sans": {
+    "textboxes": 772,
+    "plain_textboxes": 769
+  },
+  "Sans (call)": {
+    "textboxes": 191,
+    "plain_textboxes": 191
+  },
+  "Sans (message)": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Sans (note)": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Sans and Frisk": {
+    "textboxes": 12,
+    "plain_textboxes": 12
+  },
+  "Save File": {
+    "textboxes": 44,
+    "plain_textboxes": 44
+  },
+  "Scared Donut Guy": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Scarf Lady": {
+    "textboxes": 9,
+    "plain_textboxes": 9
+  },
+  "Scarf Lady (book)": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Scarf Mouse": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Screen": {
+    "textboxes": 24,
+    "plain_textboxes": 24
+  },
+  "Shambling Mass": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Shyren": {
+    "textboxes": 12,
+    "plain_textboxes": 12
+  },
+  "Sign": {
+    "textboxes": 69,
+    "plain_textboxes": 69
+  },
+  "Skateboard Girl": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Snail 1": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Snail 2": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Snowdin Knock Lover": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Snowdin Shopkeeper": {
+    "textboxes": 46,
+    "plain_textboxes": 46
+  },
+  "Snowdin Shopkeeper (note)": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Snowdrake": {
+    "textboxes": 36,
+    "plain_textboxes": 36
+  },
+  "Snowdrake's Father": {
+    "textboxes": 22,
+    "plain_textboxes": 22
+  },
+  "Snowdrake's Mother": {
+    "textboxes": 4,
+    "plain_textboxes": 4
+  },
+  "Snowed Inn Keeper": {
+    "textboxes": 20,
+    "plain_textboxes": 20
+  },
+  "Snowed Inn Keeper and Frisk": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Snowed Inn Keeper's Child": {
+    "textboxes": 4,
+    "plain_textboxes": 4
+  },
+  "Snowman": {
+    "textboxes": 38,
+    "plain_textboxes": 38
+  },
+  "Snowman and Frisk": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "So Sorry": {
+    "textboxes": 105,
+    "plain_textboxes": 105
+  },
+  "Television": {
+    "textboxes": 85,
+    "plain_textboxes": 85
+  },
+  "Temmie": {
+    "textboxes": 75,
+    "plain_textboxes": 75
+  },
+  "Toriel": {
+    "textboxes": 397,
+    "plain_textboxes": 396
+  },
+  "Toriel (call)": {
+    "textboxes": 114,
+    "plain_textboxes": 111
+  },
+  "Toriel (call) and Frisk": {
+    "textboxes": 4,
+    "plain_textboxes": 4
+  },
+  "Toriel (diary)": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Toriel (message)": {
+    "textboxes": 45,
+    "plain_textboxes": 45
+  },
+  "Toriel (note)": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Toriel (video)": {
+    "textboxes": 15,
+    "plain_textboxes": 15
+  },
+  "Toriel and Frisk": {
+    "textboxes": 5,
+    "plain_textboxes": 5
+  },
+  "Tsunderplane": {
+    "textboxes": 33,
+    "plain_textboxes": 33
+  },
+  "Ugly Fish": {
+    "textboxes": 16,
+    "plain_textboxes": 16
+  },
+  "Ugly Fish (note)": {
+    "textboxes": 2,
+    "plain_textboxes": 2
+  },
+  "Undyne": {
+    "textboxes": 751,
+    "plain_textboxes": 749
+  },
+  "Undyne (call)": {
+    "textboxes": 517,
+    "plain_textboxes": 517
+  },
+  "Undyne and Frisk": {
+    "textboxes": 3,
+    "plain_textboxes": 3
+  },
+  "Undyne the Undying": {
+    "textboxes": 15,
+    "plain_textboxes": 15
+  },
+  "Unknown": {
+    "textboxes": 95,
+    "plain_textboxes": 91
+  },
+  "Vegetoid": {
+    "textboxes": 10,
+    "plain_textboxes": 10
+  },
+  "Vulkin": {
+    "textboxes": 27,
+    "plain_textboxes": 27
+  },
+  "Whimsalot": {
+    "textboxes": 12,
+    "plain_textboxes": 12
+  },
+  "Whimsun": {
+    "textboxes": 7,
+    "plain_textboxes": 7
+  },
+  "Woshua": {
+    "textboxes": 31,
+    "plain_textboxes": 31
+  },
+  "Woshua's Bird": {
+    "textboxes": 1,
+    "plain_textboxes": 1
+  },
+  "Wrong Number Song Caller (call)": {
+    "textboxes": 6,
+    "plain_textboxes": 6
+  }
+}
