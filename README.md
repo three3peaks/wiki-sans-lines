@@ -58,7 +58,7 @@ This is a **creative project under a free license**. You are free to take the co
 
 The three modes are different ways of building WIKI!Sans's sentences.
 
-<img src="images/wiki_sans_v2_face3.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face3.png" height="104" alt="">
 
 ### Word mode
 
@@ -75,7 +75,7 @@ It keeps punctuation and the shape of your sentence. It does not invent a brand-
 
 ![Word mode example](docs/screenshots/word-mode.png)
 
-<img src="images/wiki_sans_v2_face2.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face2.png" height="104" alt="">
 
 ### Sentence mode
 
@@ -85,7 +85,7 @@ Sentence mode does **not** replace words one by one. It splits your text into se
 
 ![Sentence mode example](docs/screenshots/sentence-mode.png)
 
-<img src="images/wiki_sans_v2_face4.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face4.png" height="104" alt="">
 
 ### Letter mode
 
@@ -95,7 +95,7 @@ Known words are still taken from textboxes. An unknown word is **spelled** from 
 
 ![Letter mode example](docs/screenshots/letter-mode.png)
 
-<img src="images/wiki_sans_v2_face9.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face9.png" height="104" alt="">
 
 ### History
 
@@ -211,7 +211,7 @@ The build writes to `wiki-sans/dist/`:
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face6.png" height="56" alt="">
+<img src="images/wiki_sans_v2_face6.png" height="104" alt="">
 
 *he'll always say something you've already heard.*
 
@@ -271,7 +271,7 @@ The build writes to `wiki-sans/dist/`:
 
 Три режима отвечают за разные способы составления предложений WIKI!Санса.
 
-<img src="images/wiki_sans_v2_face3.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face3.png" height="104" alt="">
 
 ### Word mode
 
@@ -288,7 +288,7 @@ The build writes to `wiki-sans/dist/`:
 
 ![Заглушка скриншота Word mode](docs/screenshots/word-mode.png)
 
-<img src="images/wiki_sans_v2_face2.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face2.png" height="104" alt="">
 
 ### Sentence mode
 
@@ -298,7 +298,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
 
 ![Заглушка скриншота Sentence mode](docs/screenshots/sentence-mode.png)
 
-<img src="images/wiki_sans_v2_face4.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face4.png" height="104" alt="">
 
 ### Letter mode
 
@@ -308,7 +308,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
 
 ![Пример Letter mode](docs/screenshots/letter-mode.png)
 
-<img src="images/wiki_sans_v2_face9.png" height="44" alt="">
+<img src="images/wiki_sans_v2_face9.png" height="104" alt="">
 
 ### History
 
@@ -424,7 +424,7 @@ python main.py
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face6.png" height="56" alt="">
+<img src="images/wiki_sans_v2_face6.png" height="104" alt="">
 
 *он всегда скажет то, что ты уже слышал когда-то.*
 
