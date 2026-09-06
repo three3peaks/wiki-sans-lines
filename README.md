@@ -16,7 +16,7 @@
 
 [Читать на русском](#readme-ru)
 
-<img src="images/wiki_sans_v2_face.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face.png" weight="100" alt="">
 
 ## About
 
@@ -32,7 +32,7 @@ This is a **creative project under a free license**. You are free to take the co
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face10.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face10.png" weight="100" alt="">
 
 ## Sources
 
@@ -46,7 +46,7 @@ This is a **creative project under a free license**. You are free to take the co
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face8.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face8.png" weight="100" alt="">
 
 ## How to use
 
@@ -58,7 +58,7 @@ This is a **creative project under a free license**. You are free to take the co
 
 The three modes are different ways of building WIKI!Sans's sentences.
 
-<img src="images/wiki_sans_v2_face3.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face3.png" weight="100" alt="">
 
 ### Word mode
 
@@ -75,7 +75,7 @@ It keeps punctuation and the shape of your sentence. It does not invent a brand-
 
 ![Word mode example](docs/screenshots/word-mode.png)
 
-<img src="images/wiki_sans_v2_face2.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face2.png" weight="100" alt="">
 
 ### Sentence mode
 
@@ -85,7 +85,7 @@ Sentence mode does **not** replace words one by one. It splits your text into se
 
 ![Sentence mode example](docs/screenshots/sentence-mode.png)
 
-<img src="images/wiki_sans_v2_face4.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face4.png" weight="100" alt="">
 
 ### Letter mode
 
@@ -95,7 +95,7 @@ Known words are still taken from textboxes. An unknown word is **spelled** from 
 
 ![Letter mode example](docs/screenshots/letter-mode.png)
 
-<img src="images/wiki_sans_v2_face9.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face9.png" weight="100" alt="">
 
 ### History
 
@@ -109,7 +109,7 @@ Click a card to bring that run back: the source text, the spoken line, and the s
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face11.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face11.png" weight="100" alt="">
 
 ## Where the words come from
 
@@ -121,7 +121,7 @@ Under **Where the words and letters come from** you can see which character said
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face7.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face7.png" weight="100" alt="">
 
 ## Settings for the exe
 
@@ -171,7 +171,7 @@ The first reply from the model can take a while. After that it is faster.
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face5png.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face5png.png" weight="100" alt="">
 
 ## For developers
 
@@ -211,7 +211,7 @@ The build writes to `wiki-sans/dist/`:
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face6.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face6.png" weight="100" alt="">
 
 *he'll always say something you've already heard.*
 
@@ -229,7 +229,7 @@ The build writes to `wiki-sans/dist/`:
 
 **[Скачать программу](https://github.com/three3peaks/wiki-sans-lines/releases)**
 
-<img src="images/wiki_sans_v2_face.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face.png" weight="100" alt="">
 
 ## О проекте
 
@@ -245,7 +245,7 @@ The build writes to `wiki-sans/dist/`:
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face10.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face10.png" weight="100" alt="">
 
 ## Первоисточники
 
@@ -259,7 +259,7 @@ The build writes to `wiki-sans/dist/`:
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face8.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face8.png" weight="100" alt="">
 
 ## Как пользоваться
 
@@ -271,7 +271,7 @@ The build writes to `wiki-sans/dist/`:
 
 Три режима отвечают за разные способы составления предложений WIKI!Санса.
 
-<img src="images/wiki_sans_v2_face3.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face3.png" weight="100" alt="">
 
 ### Word mode
 
@@ -288,7 +288,7 @@ The build writes to `wiki-sans/dist/`:
 
 ![Заглушка скриншота Word mode](docs/screenshots/word-mode.png)
 
-<img src="images/wiki_sans_v2_face2.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face2.png" weight="100" alt="">
 
 ### Sentence mode
 
@@ -298,7 +298,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
 
 ![Заглушка скриншота Sentence mode](docs/screenshots/sentence-mode.png)
 
-<img src="images/wiki_sans_v2_face4.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face4.png" weight="100" alt="">
 
 ### Letter mode
 
@@ -308,7 +308,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
 
 ![Пример Letter mode](docs/screenshots/letter-mode.png)
 
-<img src="images/wiki_sans_v2_face9.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face9.png" weight="100" alt="">
 
 ### History
 
@@ -322,7 +322,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face11.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face11.png" weight="100" alt="">
 
 ## Откуда берутся слова
 
@@ -334,7 +334,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face7.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face7.png" weight="100" alt="">
 
 ## Настройки для exe
 
@@ -384,7 +384,7 @@ ollama pull qwen2.5:7b
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face5png.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face5png.png" weight="100" alt="">
 
 ## Для разработчиков
 
@@ -424,7 +424,7 @@ python main.py
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face6.png" weight="104" alt="">
+<img src="images/wiki_sans_v2_face6.png" weight="100" alt="">
 
 *он всегда скажет то, что ты уже слышал когда-то.*
 
