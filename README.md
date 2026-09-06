@@ -16,7 +16,7 @@
 
 [Читать на русском](#readme-ru)
 
-<img src="images/wiki_sans_v2_face.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face.png" height="104" alt="">
 
 ## About
 
@@ -32,7 +32,7 @@ This is a **creative project under a free license**. You are free to take the co
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face10.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face10.png" height="104" alt="">
 
 ## Sources
 
@@ -46,7 +46,7 @@ This is a **creative project under a free license**. You are free to take the co
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face8.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face8.png" height="104" alt="">
 
 ## How to use
 
@@ -109,7 +109,7 @@ Click a card to bring that run back: the source text, the spoken line, and the s
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face11.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face11.png" height="104" alt="">
 
 ## Where the words come from
 
@@ -121,7 +121,7 @@ Under **Where the words and letters come from** you can see which character said
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face7.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face7.png" height="104" alt="">
 
 ## Settings for the exe
 
@@ -171,7 +171,7 @@ The first reply from the model can take a while. After that it is faster.
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face5png.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face5png.png" height="104" alt="">
 
 ## For developers
 
@@ -229,7 +229,7 @@ The build writes to `wiki-sans/dist/`:
 
 **[Скачать программу](https://github.com/three3peaks/wiki-sans-lines/releases)**
 
-<img src="images/wiki_sans_v2_face.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face.png" height="104" alt="">
 
 ## О проекте
 
@@ -245,7 +245,7 @@ The build writes to `wiki-sans/dist/`:
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face10.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face10.png" height="104" alt="">
 
 ## Первоисточники
 
@@ -259,7 +259,7 @@ The build writes to `wiki-sans/dist/`:
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face8.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face8.png" height="104" alt="">
 
 ## Как пользоваться
 
@@ -322,7 +322,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face11.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face11.png" height="104" alt="">
 
 ## Откуда берутся слова
 
@@ -334,7 +334,7 @@ Sentence mode **не** подменяет слова по одному. Он р�
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face7.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face7.png" height="104" alt="">
 
 ## Настройки для exe
 
@@ -384,7 +384,7 @@ ollama pull qwen2.5:7b
   <img src="docs/readme/rule.svg" alt="" width="920">
 </p>
 
-<img src="images/wiki_sans_v2_face5png.png" height="52" alt="">
+<img src="images/wiki_sans_v2_face5png.png" height="104" alt="">
 
 ## Для разработчиков
 
